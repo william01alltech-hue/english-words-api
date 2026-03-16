@@ -1,0 +1,9 @@
+[
+  {"en": "teacher", "ch": "老師", "level": "1A", "category": "identity"},
+  {"en": "student", "ch": "學生", "level": "1A", "category": "identity"},
+  {"en": "weather", "ch": "天氣", "level": "1B", "category": "Nature"},
+  {"en": "museum", "ch": "博物館", "level": "2A", "category": "Place"},
+  {"en": "butterfly", "ch": "蝴蝶", "level": "2B", "category": "Animal"},
+  {"en": "pollution", "ch": "污染", "level": "3A", "category": "Environment"},
+  {"en": "government", "ch": "政府", "level": "3B", "category": "Society"}
+]
